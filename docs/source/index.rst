@@ -15,5 +15,5 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: _static/logo.png
+.. image:: ../_static/logo.png
    :width: 200px
