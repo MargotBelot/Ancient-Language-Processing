@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools", "sphinx"]
+build-backend = "setuptools.build_meta"
+
+[tool.sphinx]
+extensions = [
+    "sphinx.ext.autodoc",
+    "sphinx.ext.viewcode"
+]
+
+[tool.sphinx.html]
+theme = "sphinx_rtd_theme"
+theme_options = { 
+  "collapse_navigation" = false,
+  "navigation_depth" = 3
+}
