@@ -7,10 +7,10 @@ The Ancient Language Processing (ALP) project aims to advance the study of ancie
 
 Hieratic, an ancient Egyptian script, is a complex writing system. This project helps scholars and researchers digitize and analyze historical documents by training state-of-the-art models for:
 
-	•	Handwritten Text Recognition (HTR): Identifying signs in scanned hieratic manuscripts.
-	•	Transliteration: Converting hieratic signs to modern transliterated text.
-	•	Translation: Translating the transliterated text to modern language.
-	•	Period Classification: Categorizing the text into different historical periods.
+•	Handwritten Text Recognition (HTR): Identifying signs in scanned hieratic manuscripts.
+•	Transliteration: Converting hieratic signs to modern transliterated text.
+•	Translation: Translating the transliterated text to modern language.
+•	Period Classification: Categorizing the text into different historical periods.
 
 This toolset is valuable for archaeologists, historians, and anyone involved in the study of ancient texts.
 
@@ -57,9 +57,9 @@ To get started, clone the repository and install the necessary dependencies.
 
 Prerequisites:
 
-	•	Python: Version 3.8 or above
-	•	Conda: For creating a reproducible environment
-	•	Tesseract OCR: Required for image-based text recognition
+•	Python: Version 3.8 or above
+•	Conda: For creating a reproducible environment
+•	Tesseract OCR: Required for image-based text recognition
 
 ### Step 1: Clone the Repository
 
@@ -104,7 +104,7 @@ Optionally, you can run both backend and frontend concurrently using tools like 
 ## 📚 Usage
 
 Once everything is set up, you can begin using the project. Here’s a basic usage example for Handwritten Text Recognition (HTR):
-
+(coming soon)
 
 For more usage examples, check the examples/ directory (coming soon).
 
@@ -115,11 +115,11 @@ We welcome contributions! If you’d like to contribute to the project, please f
 
 ### Steps to contribute:
 
-	1.	Fork the repository
-	2.	Create a new branch (git checkout -b feature-name)
-	3.	Make your changes
-	4.	Commit and push your changes (git push origin feature-name)
-	5.	Create a pull request
+1.	Fork the repository
+2.	Create a new branch (git checkout -b feature-name)
+3.	Make your changes
+4.	Commit and push your changes (git push origin feature-name)
+5.	Create a pull request
 
 
 ## 📝 License
