@@ -28,11 +28,15 @@ Ancient-Language-Processing/
 ├── .gitignore              # Git ignore settings
 ├── .readthedocs.yaml       # ReadTheDocs configuration
 ├── docs/                   # Sphinx documentation source files
+│   ├── _static
+│   ├── make.bat
+│   │   ├── logo.png
 │   ├── make.bat
 │   ├── Makefile
 │   └── source
-│       ├── conf.py
-│       └── index.rst
+│   │    ├── conf.py
+│   │    └── index.rst
+│   └── README.rst
 ├── environment.yaml        # Conda environment specification
 ├── LICENSE                 # Project license
 ├── README.md               # Project description
