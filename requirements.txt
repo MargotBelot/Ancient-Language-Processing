@@ -1,2 +1,30 @@
-sphinx
-sphinx-rtd-theme
+# Core dependencies for the project
+numpy==1.23.5                # Array manipulation
+scipy==1.10.0                # Scientific computations
+pandas==1.5.3                # Data manipulation
+matplotlib==3.6.3            # Plotting graphs
+opencv-python==4.6.0.66      # OpenCV for image processing
+Pillow==9.2.0                # Image manipulation
+tensorflow==2.13.0           # Deep learning (updated to compatible version)
+torch==1.13.0                # PyTorch (if using this for HTR models)
+transformers==4.25.1         # Hugging Face transformers for pretrained models
+
+# Preprocessing dependencies
+scikit-learn==1.2.0          # ML library for preprocessing steps
+Pytesseract==0.3.10          # Python wrapper for Tesseract OCR
+
+# Translation libraries
+sentencepiece==0.1.97        # For tokenizing text (if needed for translation models)
+
+# Documentation
+sphinx==5.0.1                # Sphinx for generating docs
+sphinx-rtd-theme==1.1.1      # ReadTheDocs theme for Sphinx docs
+
+# Testing
+pytest==7.2.0                # Unit testing library
+pytest-cov==3.0.0            # Code coverage for tests
+
+# For deployment and CI/CD
+black==22.10.0               # Python code formatter
+flake8==5.0.4                # Linter for Python
+pre-commit==2.20.0           # Code hooks and pre-commit hooks
