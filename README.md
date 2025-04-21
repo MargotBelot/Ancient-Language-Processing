@@ -131,3 +131,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📄 Documentation
 
 For more details on how to use, contribute, or set up this project, check out the [documentation](https://ancient-langue-processing.readthedocs.io/en/latest/).
+
+![Logo](https://github.com/MargotBelot/Ancient-Language-Processing/main/docs/logo.png)
