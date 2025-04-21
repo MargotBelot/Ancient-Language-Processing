@@ -8,7 +8,6 @@ Pillow==9.2.0                # Image manipulation
 tensorflow==2.13.0           # Deep learning (updated to compatible version)
 torch==1.13.0                # PyTorch (if using this for HTR models)
 transformers==4.25.1         # Hugging Face transformers for pretrained models
-recommonmark==0.7.1          # Markdown support for Sphinx
 
 # Preprocessing dependencies
 scikit-learn==1.2.0          # ML library for preprocessing steps
