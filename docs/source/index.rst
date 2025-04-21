@@ -18,5 +18,5 @@ documentation for details.
 .. image:: ../_static/logo.png
    :width: 200px
 
-.. include:: ../../README.md
+.. include:: ../README.rst
    :literal:
