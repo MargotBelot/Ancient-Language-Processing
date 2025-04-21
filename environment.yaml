@@ -1,4 +1,4 @@
-name: ancient-language-processing
+name: ancient-htr
 channels:
   - conda-forge
 dependencies:
