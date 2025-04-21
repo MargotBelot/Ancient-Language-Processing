@@ -1,4 +1,4 @@
-name: ancient-htr
+name: ancient-language-processing
 channels:
   - conda-forge
 dependencies:
@@ -12,10 +12,10 @@ dependencies:
   - numpy
   - matplotlib
   - scikit-learn
+  - recommonmark
   - pip
   - pip:
       - sphinx
       - sphinx-rtd-theme
       - fastapi
       - uvicorn
-      - recommonmark
