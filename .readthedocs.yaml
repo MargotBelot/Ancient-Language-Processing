@@ -5,8 +5,5 @@ build:
   tools:
     python: "3.10"
 
-conda:
-  environment: environment.yaml
-
 sphinx:
   configuration: docs/source/conf.py
