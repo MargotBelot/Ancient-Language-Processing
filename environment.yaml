@@ -18,3 +18,4 @@ dependencies:
       - sphinx-rtd-theme
       - fastapi
       - uvicorn
+      - recommonmark
