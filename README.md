@@ -6,6 +6,7 @@ The Ancient Language Processing (ALP) project aims to advance the study of ancie
 ## 🏺 Project Overview
 
 Hieratic, an ancient Egyptian script, is a complex writing system. This project helps scholars and researchers digitize and analyze historical documents by training state-of-the-art models for:
+
     •	Handwritten Text Recognition (HTR): Identifying signs in scanned hieratic manuscripts.
     •	Transliteration: Converting hieratic signs to modern transliterated text.
     •	Translation: Translating the transliterated text to modern language.
@@ -113,6 +114,7 @@ For more usage examples, check the examples/ directory (coming soon).
 We welcome contributions! If you’d like to contribute to the project, please fork the repository, create a new branch, and submit a pull request. Ensure that you add tests for any new features or bug fixes.
 
 ### Steps to contribute:
+
     1.	Fork the repository
     2.	Create a new branch (git checkout -b feature-name)
     3.	Make your changes
