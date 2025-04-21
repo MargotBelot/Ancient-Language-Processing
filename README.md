@@ -1,6 +1,6 @@
 # Ancient Language Processing (ALP)
 
-![Logo](https://github.com/MargotBelot/Ancient-Language-Processing/blob/main/docs/logo.png)
+<img src="https://github.com/MargotBelot/Ancient-Language-Processing/blob/main/docs/_static/logo.png" width="200"/>
 
 The Ancient Language Processing (ALP) project aims to advance the study of ancient Egyptian hieratic texts by using modern machine learning techniques, including Handwritten Text Recognition (HTR), Transliteration, Translation, and Period Classification. This project focuses on training models that can recognize ancient signs, transliterate them into modern characters, translate the meaning, and classify texts by their historical periods using large language models (LLMs).
 
