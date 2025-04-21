@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Ancient Language Processing documentation
-=========================================
+Ancient Language Processing
+===========================
 
 .. toctree::
    :maxdepth: 2
@@ -14,4 +14,3 @@ Ancient Language Processing documentation
    :width: 200px
 
 .. include:: ../README.rst
-   :literal:
