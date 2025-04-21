@@ -1,0 +1,20 @@
+name: ancient-htr
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - opencv
+  - pytorch
+  - torchvision
+  - transformers
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - pip
+  - pip:
+      - sphinx
+      - sphinx-rtd-theme
+      - fastapi
+      - uvicorn
