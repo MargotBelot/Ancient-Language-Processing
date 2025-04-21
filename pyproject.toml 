@@ -1,16 +1,33 @@
 [build-system]
-requires = ["setuptools", "sphinx"]
+requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
-[tool.sphinx]
-extensions = [
-    "sphinx.ext.autodoc",
-    "sphinx.ext.viewcode"
+[project]
+name = "Ancient-Language-Processing"
+version = "1.0"
+description = "Handwritten Text Recognition for Ancient Languages"
+authors = [
+    {name = "Margot Belot"},
+    {name = "Dominique Cloyer"}
 ]
-
-[tool.sphinx.html]
-theme = "sphinx_rtd_theme"
-theme_options = { 
-  "collapse_navigation" = false,
-  "navigation_depth" = 3
-}
+dependencies = [
+    "numpy==1.23.5",
+    "scipy==1.10.0",
+    "pandas==1.5.3",
+    "matplotlib==3.6.3",
+    "opencv-python==4.6.0.66",
+    "Pillow==9.2.0",
+    "tensorflow==2.13.0",
+    "torch==1.13.0",
+    "transformers==4.25.1",
+    "scikit-learn==1.2.0",
+    "pytesseract==0.3.10",
+    "sentencepiece==0.1.97",
+    "sphinx==5.0.1",
+    "sphinx-rtd-theme==1.1.1",
+    "pytest==7.2.0",
+    "pytest-cov==3.0.0",
+    "black==22.10.0",
+    "flake8==5.0.4",
+    "pre-commit==2.20.0"
+]
