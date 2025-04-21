@@ -55,10 +55,11 @@ Ancient-Language-Processing/
 
 To get started, clone the repository and install the necessary dependencies.
 
-Prerequisites:
-    •	Python: Version 3.8 or above
-    •	Conda: For creating a reproducible environment
-    •	Tesseract OCR: Required for image-based text recognition
+**Prerequisites:**
+
+- Python: Version 3.8 or above  
+- Conda: For creating a reproducible environment  
+- Tesseract OCR: Required for image-based text recognition
 
 ### Step 1: Clone the Repository
 ```
