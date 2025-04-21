@@ -12,7 +12,6 @@ dependencies:
   - numpy
   - matplotlib
   - scikit-learn
-  - recommonmark
   - pip
   - pip:
       - sphinx
